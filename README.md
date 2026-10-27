@@ -2,7 +2,7 @@
 
 A personal portfolio website showcasing my background as a Computer Science Engineering student at JECRC University, Jaipur, Rajasthan, India. It highlights my technical skills, programming projects, and interest in software development.
 
-**Live Website:** [View My Portfolio](https://portfolio-25bcon1037.vercel.app/)
+**Live Website:** [View My Portfolio](https://portfolio-1073.vercel.app/)
 
 ## Features
 
@@ -85,7 +85,7 @@ portfolio/
 
 - **GitHub:** [@rudrahsharma008](https://github.com/rudrahsharma008)
 - **Email:** [rudrahajaysharma@gmail.com](mailto:rudrahajaysharma@gmail.com)
-- **Portfolio:** [portfolio-25bcon1037.vercel.app](https://portfolio-25bcon1037.vercel.app/)
+- **Portfolio:** [portfolio-25bcon1037.vercel.app](https://portfolio-1073.vercel.app/)
 
 ---
 
